@@ -4,8 +4,8 @@
 A cybersecurity homelab project with pfSense, Security Onion, Splunk, Active Directory, and attack/defense machines.  
 Purpose: Learn SOC workflows, simulate attacks, and detect them using enterprise-grade tools.
 
-## 🖥️ Lab Topology
-![Network Diagram](diagrams/topology.png)
+## 🖥️ Lab Topology 
+Topology are under `/diagrams/`
 
 ## ⚙️ Environment Setup
 - Host: 16GB RAM, VMware Workstation
