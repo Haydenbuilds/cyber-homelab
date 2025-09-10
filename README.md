@@ -1,17 +1,17 @@
 # Cyber Homelab (SOC/Blue Team Simulation)
 
-## 📌 Overview
+## Overview
 A cybersecurity homelab project with pfSense, Security Onion, Splunk, Active Directory, and attack/defense machines.  
 Purpose: Learn SOC workflows, simulate attacks, and detect them using enterprise-grade tools.
 
-## 🖥️ Lab Topology 
+## Lab Topology 
 Topology are under `/diagrams/`
 
-## ⚙️ Environment Setup
+## Environment Setup
 - Host: 16GB RAM, VMware Workstation
 - VMs: pfSense, Security Onion, Splunk, Windows Server (DC), Windows 10, Kali Linux
 
-## 📸 Screenshots
+## Screenshots
 Screenshots are organized under `/exports/`
 
 ## Results
